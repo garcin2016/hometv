@@ -1,0 +1,152 @@
+﻿#EXTM3U
+#EXTINF:-1,CA : HBO_CA
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/162.ts
+#EXTINF:-1,CA : HBO 2_CA
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/163.ts
+#EXTINF:-1,CA: HBO HD
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/160.ts
+#EXTINF:-1,CA: NAT GEO HD
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/159.ts
+#EXTINF:-1,CA: DISCOVERY SCIENCE HD
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/155.ts
+#EXTINF:-1,CA: DISCOVERY CHANNEL HD
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/158.ts
+#EXTINF:-1,CA: ANIMAL PLANET
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/157.ts
+#EXTINF:-1,CA : Sportsnet One HD
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/174.ts
+#EXTINF:-1,CA : sportsnet world hd
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/172.ts
+#EXTINF:-1,CA : Sportsnet West HD
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/173.ts
+#EXTINF:-1,CA : Sportnet Ontario HD
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/175.ts
+#EXTINF:-1,CA Sportnet Pacific HD
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/171.ts
+#EXTINF:-1,CA: ESPN
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/152.ts
+#EXTINF:-1,CA: ESPN 2 HD
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/153.ts
+#EXTINF:-1,CA: ESPN 3 TRE
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/154.ts
+#EXTINF:-1,CA: FOX SPORTS
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/156.ts
+#EXTINF:-1,CA: Tsn-Sport HD
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/164.ts
+#EXTINF:-1,CA: Tsn-Sport 2 HD
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/167.ts
+#EXTINF:-1,CA: Tsn-Sport 3 HD
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/168.ts
+#EXTINF:-1,CA: Tsn-Sport 4 HD
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/169.ts
+#EXTINF:-1,CA: Tsn-Sport 5 HD
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/170.ts
+#EXTINF:-1,CA : NBA TV_CA
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/161.ts
+#EXTINF:-1,CA: AFN Sports
+http://163.172.217.107:1944/live/WWW.IPTV2424.COM9/9/8gqfb9l2ig/165.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,CA : abc hd
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/940.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,CA : abc spark
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/941.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,CA : bnn
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/942.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,CA : bravo hd
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/943.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,CA : cp24
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/944.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,CA : fox news
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/945.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,CA : fxx hd
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/946.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,CA : golf channel
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/947.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,CA : series  hd
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/948.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,CA : Sportnet Ontario HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/949.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,CA : sportsnet 360 hd
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/950.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,CA : Sportsnet One HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/951.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,CA : Sportsnet West HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/952.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,CA : sportsnet world hd
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/953.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,CA Sportnet Pacific HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/4090.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,CA Sportsnet World HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/4091.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,CA: ABC Spark
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/967.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,CA: CHCH
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/966.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,CA: CityTV HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/965.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,CA: CityTV Vancouver
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/964.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,CA: CP24 HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/963.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,CA: CTV News HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/962.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,CA: CTV Vancouver
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/961.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,CA: CTV Winnipeg
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/960.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,CA: CW HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/959.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,CA: Family HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/958.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,CA: Family Junior SD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/957.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,CA: Global HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/956.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,CA: PBS FHD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/628.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,CA: Super Ecran 1
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/971.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,CA: Super Ecran 2
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/970.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,CA: Super Ecran 3
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/969.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,CA: Super Ecran 4
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/968.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,CA: Teletoon HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/955.ts
+#EXTVLCOPT:http-user-agent=useragent
+#EXTINF:-1,CA: Velocity HD
+http://gmcllc.de:25461/live/აპანდ39/პარანდრო/954.ts
